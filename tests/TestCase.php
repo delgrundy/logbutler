@@ -7,4 +7,4 @@ use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
-} //test case comment; next
+} //test case comment; next comment
